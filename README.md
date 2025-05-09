@@ -21,10 +21,14 @@ Since we got the ".snapshot" directory on every nfs share, we've provided a wrap
 
  incdu <path> - lists space usage for a specific directory
 
-<button style="background-color: orange; color: white; padding: 10px; border-radius: 25px;">Styled Button</button>
 
-Up, down, j, k Cycle through the items
-right, enter, l Open selected directory
-s Order by filesize (press again for descending order)
-d Delete the selected file or directory. An error message will be shown when the contents of the directory do not match or do not exist anymore on the filesystem
-r Refresh/recalculate the current directory.
+
+- [![Up](https://img.shields.io/badge/UP-white)]() , [![Down](https://img.shields.io/badge/Down-white)]() ,[![J](https://img.shields.io/badge/J-white)]() ,[![K](https://img.shields.io/badge/K-white)]() Cycle through the items
+
+- [![Right](https://img.shields.io/badge/Right-white)]() , [![Enter](https://img.shields.io/badge/Enter-white)]() , [![l](https://img.shields.io/badge/L-white)]() Open selected directory
+
+- [![S](https://img.shields.io/badge/S-white)]()  Order by filesize (press again for descending order)
+
+- [![D](https://img.shields.io/badge/D-white)]()  Delete the selected file or directory. An error message will be shown when the contents of the directory do not match or do not exist anymore on the filesystem
+
+- [![R](https://img.shields.io/badge/R-white)]()  Refresh/recalculate the current directory.
